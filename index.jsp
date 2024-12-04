@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Examination System</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+
+        /* Header Styles */
+        h1 {
+            color: #4CAF50;
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            text-align: center;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        /* Link Container */
+        .link-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        /* Link Styles */
+        a {
+            text-decoration: none;
+            font-size: 1.2em;
+            color: #fff;
+            background-color: #4CAF50;
+            padding: 12px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            text-align: center;
+            display: inline-block;
+            width: 200px;
+            text-transform: uppercase;
+        }
+
+        a:hover {
+            background-color: #45a049;
+            transform: scale(1.05);
+        }
+
+        a:active {
+            background-color: #388e3c;
+            transform: scale(0.98);
+        }
+
+        /* Footer Styles */
+        footer {
+            position: absolute;
+            bottom: 20px;
+            font-size: 0.9em;
+            color: #666;
+            text-align: center;
+            animation: fadeIn 3s ease-in-out;
+        }
+
+        /* Animation for fade-in */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Media Queries for Mobile Devices */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+                margin-bottom: 20px;
+            }
+
+            .link-container {
+                gap: 10px;
+            }
+
+            a {
+                font-size: 1em;
+                padding: 10px;
+                width: 180px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Online Examination System</h1>
+    <div class="link-container">
+        <a href="studentLogin.jsp">Student Login</a>
+        <a href="adminLogin.jsp">Admin Login</a>
+    </div>
+    <footer>© 2024 Online Examination System. All rights reserved.</footer>
+</body>
+</html>
