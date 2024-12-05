@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d9a39a8-597c-4552-8a2a-ef06566e7224" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WEB-INF/assets/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/lib/data science unit 5.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminHome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/adminHome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/adminLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chooseSubject.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/studentHome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manageQuestions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/manageQuestions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/quiz.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storeid.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/studentLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submitQuiz.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/submitQuiz.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewResults.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/viewResults.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pnNacMW3ZZX5gVdu9y1evTH5EZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xamppp/tomcat/webapps/OnlineExam-System&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xamppp\tomcat\webapps\OnlineExam-System" />
+      <recent name="C:\xamppp\tomcat\webapps\OnlineExam-System\WEB-INF\views" />
+      <recent name="C:\xamppp\tomcat\webapps\OnlineExam-System\WEB-INF\assets\css" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d9a39a8-597c-4552-8a2a-ef06566e7224" name="Changes" comment="" />
+      <created>1733397943196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733397943196</updated>
+      <workItem from="1733397944254" duration="58000" />
+      <workItem from="1733398009920" duration="165000" />
+      <workItem from="1733399398519" duration="15382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
